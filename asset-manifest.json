@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ilya2000z.github.io/csb-y57fno/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ilya2000z.github.io/csb-y57fno/static/js/main.ce45dd3b.chunk.js",
+    "main.js.map": "https://ilya2000z.github.io/csb-y57fno/static/js/main.ce45dd3b.chunk.js.map",
+    "runtime-main.js": "https://ilya2000z.github.io/csb-y57fno/static/js/runtime-main.07cc4b5d.js",
+    "runtime-main.js.map": "https://ilya2000z.github.io/csb-y57fno/static/js/runtime-main.07cc4b5d.js.map",
+    "static/js/2.cc863786.chunk.js": "https://ilya2000z.github.io/csb-y57fno/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://ilya2000z.github.io/csb-y57fno/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://ilya2000z.github.io/csb-y57fno/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ilya2000z.github.io/csb-y57fno/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://ilya2000z.github.io/csb-y57fno/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07cc4b5d.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ce45dd3b.chunk.js"
+  ]
+}
